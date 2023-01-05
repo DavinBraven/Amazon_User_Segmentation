@@ -1,4 +1,4 @@
-# Amazon_User_Segmentation
+# Amazon User Segmentation
 we designed a project on how Amazon segmented the users by using the K Algorithm.
 here we are using K means cluster.
 Everyone have unique homepage in amazon.com because they uses their last or previous data to next how your homepage visible.
